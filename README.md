@@ -1,13 +1,13 @@
 <div align="center">
   <img src="./assets/img/nombre.png" alt="Victor de Miguel Diez" />
 </div>
-
+<br><br><br>
 <div align="center">
   <img src="./assets/img/gif2.gif" alt="hello gif" />
 </div>
-
+<br><br>
 <h2 align="center"> 🕹️ About Me 👾</h2>
-
+<br>
 <table style="border: none;" align="center">
   <tr style="border: none;">
     <td style="border: none;" width="50%">
@@ -45,7 +45,7 @@
 </p>
 
 
-
+<br><br><br>
 <img src="./assets/img/divisor.gif" alt="divisor" />
 <br>  
 
