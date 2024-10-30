@@ -47,6 +47,7 @@
 
 
 <img src="./assets/img/divisor.gif" alt="divisor" />
+<br>  
 
 <h2 align="center"> 🤖 Technologies and Tools that I Know 💻</h2>
 
@@ -59,6 +60,7 @@
   <code><a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="./assets/img/vscode.webp" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/VirtualBox"><img alt="VirtualBox" title="VirtualBox" src="./assets/img/Virtualbox_logo.png" height="50"></a></code>
 </p>
+<br>
 
 <h2 align="center"> ⚡ Technologies and Tools I'm Learning 🎓</h2>
 
@@ -69,8 +71,10 @@
   <code><a href="https://en.wikipedia.org/wiki/TypeScript"><img alt="TypeScript" title="TypeScript" src="./assets/img/Typescript.png" height="50"></a></code>
 </p>
 
+<br>
 <img src="./assets/img/divisor.gif" alt="divisor" />
+<br>
 
 <div align="center">
-  <img src="./assets/img/gif3.gif" alt="footer gif" />
+  <img src="./assets/img/footer.png" alt="footer" />
 </div>
